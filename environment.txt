@@ -1,0 +1,2 @@
+conda activate ml-zoomcamp
+conda install numpy pandas scikit-learn seaborn jupyter
